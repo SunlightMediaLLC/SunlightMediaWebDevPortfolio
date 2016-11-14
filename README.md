@@ -3,13 +3,13 @@
 Sunlight Media is a Los Angeles-based web design and internet marketing company, providing quality, stylish and affordable online solutions to a variety of local businesses, corporations, and government organizations. We specialize in custom web and e-commerce development utilizing a broad range of current and emerging web technologies, including WordPress, Joomla!, Magento, HTML5, Drupal, Flash, Zen Cart, CS Cart, Open Cart, custom PHP and custom mobile applications for both iOS and Android.
 In addition to our web development, we provide logo design and company branding consultation, video production, product photography, internet marketing and SEO services.
 
-For more information about our services, please visit us [here](https://sunlightmedia.org).
+For more information, please visit our [web design portfolio](https://sunlightmedia.org).
 
 Below you can see design and development projects we have recently completed for a variety of eCommerce, Entertainment and Academic clients.
 
 **Table of Contents**
 
-* Design & Development
+* [Design & Development](https://sunlightmedia.org/services/web-design/)
   * Venertainment
   * RoyaltyFreeKings
   * INSNA
