@@ -16,7 +16,6 @@ Below you can see design and development projects we have recently completed for
   * Lolli Couture
   * Pet Novo
   * Hi Street
-* Marketing & Brand Strategy
 * Logo Design
 * Video Production
 * Product Photography & Photoshop Retouching
@@ -79,31 +78,6 @@ They reached out to us in need of a major redesign. We integrated a brand new sk
 [HiStreet](https://histreet.com/) is a fashion accessories brand offering a variety of the latest trendy looks for young men and women. They strive to bring the devoted fashion lover the latest on-trend accessory that captivates their personal style. Each month they look to street styles for innovation, personal stories and inspiration to their customers. “Nothing tells a greater story than the perfect fashion accessory”.
 
 HiStreet turned to Sunlight Media to create an online brand, utilizing our creative design skills and Magneto development expertise, to come up with a project we are truly proud of showcasing.
-
-## Marketing & Brand Strategy
-
-In addition to our web design and development work, Sunlight Media provides a vast array of SEO and internet marketing services. If you’re looking to gain more search engine exposure, or to be found through social media channels, look no further. We can tailor a marketing package to suit your specific needs, budget and demographic. Read though the entire list of campaigns below and let us know which plan suits you best.
-
-Some of our Marketing services include:
-
-* Marketing Audit / Setup
-* Offsite Content Creation - Link Building
-* Offsite Content Creation - Press Releases
-* Onsite Content Creation - Blog Management
-* Social Media Management
-* PPC | Paid Advertising Management
-* Business & Marketing Consulting
-* Directory Citation Building
-
-For more information on our marketing services, please visit [Sunlight Media](https://sunlightmedia.org/services/seo-pro/).
-
-### Brand Strategy
-
-Strong branding is the foundation of any successful product or service. Smart branding is what enables a product or service to stand out in a crowded market, capture market share and drive revenue. We will work with you to break down your brand, and simplify and organize it in order to ensure that you will be considered in your industry as unique, valuable and memorable.
-
-Everything derives from your brand including messaging, look and feel, target market decisions, channel marketing decisions and more. Let’s make sure that you have the strongest, smartest and most fitting brand for your business…and your customers…and then, let’s bring it life!
-
-For more information on brand strategy, please visit us [here](https://sunlightmedia.org/services/brand-strategy/).
 
 ## Logo Design Services
 
