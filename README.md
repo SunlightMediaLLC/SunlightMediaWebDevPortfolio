@@ -79,12 +79,6 @@ They reached out to us in need of a major redesign. We integrated a brand new sk
 
 HiStreet turned to Sunlight Media to create an online brand, utilizing our creative design skills and Magneto development expertise, to come up with a project we are truly proud of showcasing.
 
-## Logo Design Services
-
-Sunlight Media also offers custom logo design for businesses, products, or anyone looking to improve their online presence and branding. Unlike most design companies, we offer unlimited design revisions for our logo services, fine-tuning the logo until it’s exactly what you’re looking for. With a strong attention to detail, years of professional design experience, our team of designers will ensure that you have a logo that is the perfect fit for your business, custom-tailored to your brand.
-
-[Click here](https://sunlightmedia.org/services/logo-design-services/) for more information on our logo design services.
-
 ## Video Production
 
 Here at Sunlight Media we also offer full-service Video Production for both commercial and non-commercial use. Take advantage of our expertise and let your brand stand out from the crowd.
