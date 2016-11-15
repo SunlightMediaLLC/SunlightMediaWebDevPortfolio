@@ -16,8 +16,6 @@ Below you can see design and development projects we have recently completed for
   * Lolli Couture
   * Pet Novo
   * Hi Street
-* Video Production
-* Product Photography & Photoshop Retouching
 * Contact
 
 ## Design & Development
@@ -77,36 +75,6 @@ They reached out to us in need of a major redesign. We integrated a brand new sk
 [HiStreet](https://histreet.com/) is a fashion accessories brand offering a variety of the latest trendy looks for young men and women. They strive to bring the devoted fashion lover the latest on-trend accessory that captivates their personal style. Each month they look to street styles for innovation, personal stories and inspiration to their customers. “Nothing tells a greater story than the perfect fashion accessory”.
 
 HiStreet turned to Sunlight Media to create an online brand, utilizing our creative design skills and Magneto development expertise, to come up with a project we are truly proud of showcasing.
-
-## Video Production
-
-Here at Sunlight Media we also offer full-service Video Production for both commercial and non-commercial use. Take advantage of our expertise and let your brand stand out from the crowd.
-
-Video is arguably the most effective medium for strengthening your brand and disseminating useful information. If the age-old saying, “a picture is worth a thousand words” is true, how much more is a video worth? With shorter attention spans and people having less patience for reading long text content, video has the capability of getting your message across as succinctly and yet detailed as possible – much more so than what text or images have to offer.
-
-Click below below to view our video reel:
-
-[![Video Reel](video-reel.png)](https://www.youtube.com/watch?list=PL7NVbO20R1D8WNNYctNALtsDuj8MCoX3Y&v=8GIuKidoYo0 "Sunlight Media Video Reel")
-
-[Click here](https://sunlightmedia.org/services/video-production-los-angeles/) for more information on our Video Production services.
-
-## Product Photography & Photoshop Retouching
-
-In addition to our web design and marketing services, our company Sunlight Media is also available for Product Photography. We offer years of expertise in proper color, lighting, and framing, as well as creative direction. Improve the branding and visual presentation of your company by having us handle product photography for your next big product launch.
-
-Quality product photography can be used for any of the following purposes:
-
-- Creating content for your website
-- Print and billboard advertisements
-- Social media posts
-- Marketing documents
-- Product catalogues & brochures
-- Email campaigns
-- and more!
-
-Photo shoots can take place at our photography studio located in Venice, California, or we can bring our equipment to you anywhere in the Los Angeles-county area. After approval of the photos we’ve shot, we will deliver high resolution files of the images you’ve selected, ready for use in digital or print mediums. Please contact us to find out more about logistics for any photo shoots.
-
-For more information, please click [here](https://sunlightmedia.org/services/product-photography/).
 
 ## Contact
 
