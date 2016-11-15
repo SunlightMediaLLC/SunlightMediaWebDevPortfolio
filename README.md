@@ -16,7 +16,6 @@ Below you can see design and development projects we have recently completed for
   * Lolli Couture
   * Pet Novo
   * Hi Street
-* Logo Design
 * Video Production
 * Product Photography & Photoshop Retouching
 * Contact
